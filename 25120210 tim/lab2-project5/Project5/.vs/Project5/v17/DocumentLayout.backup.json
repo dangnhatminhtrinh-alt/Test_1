@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\25120210\\lab2-project5\\Project5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2404A8F8-0E97-4323-A6D9-A212067ABCC3}|Project5\\Project5.vcxproj|E:\\25120210\\lab2-project5\\Project5\\Project5\\project 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2404A8F8-0E97-4323-A6D9-A212067ABCC3}|Project5\\Project5.vcxproj|solutionrelative:Project5\\project 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "project 5.cpp",
+              "DocumentMoniker": "E:\\25120210\\lab2-project5\\Project5\\Project5\\project 5.cpp",
+              "RelativeDocumentMoniker": "Project5\\project 5.cpp",
+              "ToolTip": "E:\\25120210\\lab2-project5\\Project5\\Project5\\project 5.cpp*",
+              "RelativeToolTip": "Project5\\project 5.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T07:15:35.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

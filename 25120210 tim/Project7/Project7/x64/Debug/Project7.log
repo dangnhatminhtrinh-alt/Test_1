@@ -1,0 +1,3 @@
+﻿  Bai7.cpp
+E:\25120210\Project7\Bai7.cpp(5,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project7.vcxproj -> E:\25120210\Project7\x64\Debug\Project7.exe

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\25120210\\Project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A95DF2-EFE1-45B0-9162-35ABED216F93}|Project4.vcxproj|E:\\25120210\\Project4\\Bai4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9A95DF2-EFE1-45B0-9162-35ABED216F93}|Project4.vcxproj|solutionrelative:Bai4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A95DF2-EFE1-45B0-9162-35ABED216F93}|Project4.vcxproj|E:\\25120210\\Project4\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B9A95DF2-EFE1-45B0-9162-35ABED216F93}|Project4.vcxproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A95DF2-EFE1-45B0-9162-35ABED216F93}|Project4.vcxproj|E:\\25120210\\Project4\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B9A95DF2-EFE1-45B0-9162-35ABED216F93}|Project4.vcxproj|solutionrelative:output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "output.txt",
+              "DocumentMoniker": "E:\\25120210\\Project4\\output.txt",
+              "RelativeDocumentMoniker": "output.txt",
+              "ToolTip": "E:\\25120210\\Project4\\output.txt",
+              "RelativeToolTip": "output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-07T07:39:25.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "E:\\25120210\\Project4\\input.txt",
+              "RelativeDocumentMoniker": "input.txt",
+              "ToolTip": "E:\\25120210\\Project4\\input.txt",
+              "RelativeToolTip": "input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-07T07:33:35.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai4.cpp",
+              "DocumentMoniker": "E:\\25120210\\Project4\\Bai4.cpp",
+              "RelativeDocumentMoniker": "Bai4.cpp",
+              "ToolTip": "E:\\25120210\\Project4\\Bai4.cpp",
+              "RelativeToolTip": "Bai4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T07:26:19.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

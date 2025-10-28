@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\25120210\\Project8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52C8240E-0045-4B29-ABE4-1AA294949AE8}|Project8.vcxproj|E:\\25120210\\Project8\\Bai8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52C8240E-0045-4B29-ABE4-1AA294949AE8}|Project8.vcxproj|solutionrelative:Bai8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C8240E-0045-4B29-ABE4-1AA294949AE8}|Project8.vcxproj|E:\\25120210\\Project8\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{52C8240E-0045-4B29-ABE4-1AA294949AE8}|Project8.vcxproj|solutionrelative:output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C8240E-0045-4B29-ABE4-1AA294949AE8}|Project8.vcxproj|E:\\25120210\\Project8\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{52C8240E-0045-4B29-ABE4-1AA294949AE8}|Project8.vcxproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output.txt",
+              "DocumentMoniker": "E:\\25120210\\Project8\\output.txt",
+              "RelativeDocumentMoniker": "output.txt",
+              "ToolTip": "E:\\25120210\\Project8\\output.txt",
+              "RelativeToolTip": "output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-07T08:04:38.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.txt",
+              "DocumentMoniker": "E:\\25120210\\Project8\\input.txt",
+              "RelativeDocumentMoniker": "input.txt",
+              "ToolTip": "E:\\25120210\\Project8\\input.txt",
+              "RelativeToolTip": "input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-07T07:53:05.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai8.cpp",
+              "DocumentMoniker": "E:\\25120210\\Project8\\Bai8.cpp",
+              "RelativeDocumentMoniker": "Bai8.cpp",
+              "ToolTip": "E:\\25120210\\Project8\\Bai8.cpp",
+              "RelativeToolTip": "Bai8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T07:50:47.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

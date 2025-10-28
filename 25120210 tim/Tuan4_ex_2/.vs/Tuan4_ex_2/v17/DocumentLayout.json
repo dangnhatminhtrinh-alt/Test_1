@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\25120210\\25120210 tim\\Tuan4_ex_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE40C71-6229-4963-A08D-D9491F30E070}|Tuan4_ex_2\\Tuan4_ex_2.vcxproj|E:\\25120210\\25120210 tim\\Tuan4_ex_2\\Tuan4_ex_2\\Exercise_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE40C71-6229-4963-A08D-D9491F30E070}|Tuan4_ex_2\\Tuan4_ex_2.vcxproj|solutionrelative:Tuan4_ex_2\\Exercise_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise_2.cpp",
+              "DocumentMoniker": "E:\\25120210\\25120210 tim\\Tuan4_ex_2\\Tuan4_ex_2\\Exercise_2.cpp",
+              "RelativeDocumentMoniker": "Tuan4_ex_2\\Exercise_2.cpp",
+              "ToolTip": "E:\\25120210\\25120210 tim\\Tuan4_ex_2\\Tuan4_ex_2\\Exercise_2.cpp",
+              "RelativeToolTip": "Tuan4_ex_2\\Exercise_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-28T07:47:43.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
